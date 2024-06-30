@@ -1141,6 +1141,7 @@ public class ModItems {
 	public static ItemRBMKRod rbmk_fuel_les;
 	public static ItemRBMKRod rbmk_fuel_mes;
 	public static ItemRBMKRod rbmk_fuel_hes;
+	public static ItemRBMKRod rbmk_fuel_pes;
 	public static ItemRBMKRod rbmk_fuel_leaus;
 	public static ItemRBMKRod rbmk_fuel_heaus;
 	public static ItemRBMKRod rbmk_fuel_po210be;
@@ -1173,6 +1174,7 @@ public class ModItems {
 	public static ItemRBMKPellet rbmk_pellet_les;
 	public static ItemRBMKPellet rbmk_pellet_mes;
 	public static ItemRBMKPellet rbmk_pellet_hes;
+	public static ItemRBMKPellet rbmk_pellet_pes;
 	public static ItemRBMKPellet rbmk_pellet_leaus;
 	public static ItemRBMKPellet rbmk_pellet_heaus;
 	public static ItemRBMKPellet rbmk_pellet_po210be;
